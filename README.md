@@ -14,10 +14,10 @@ So why choose FilterZero?
 - Easy installation: simply place it at the base of your printer, or virtically using a printed stand.
 
 # CAD files
-- zero: the main filter body.
-- cover: the filter cover.
-- (optional) stand: You can tape it anywhere in your printer so that you can place your filter virtically.
-- (optional) fan_cover_for_refilling: when refilling, cover your fan so that the activated charcoal won't fall into the fan compartment.
+- zero.stl: the main filter body.
+- cover.stl: the filter cover.
+- (optional) stand.stl: You can tape it anywhere in your printer so that you can place your filter virtically.
+- (optional) fan_cover_for_refilling.stl: when refilling, cover your fan so that the activated charcoal won't fall into the fan compartment.
 
 # Assembly
 BOM:
