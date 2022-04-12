@@ -1,5 +1,5 @@
 # FilterZero
-Filter for 3d printers inspired by [NeverMore](https://github.com/nevermore3d/Nevermore_Micro). 
+Filter for 3d printers inspired by [NeverMore](https://github.com/nevermore3d/Nevermore_Micro). I run it in my Voron but it can be used in any enclosed printers.
 
 As the name suggests, the design goal is to be as simple as possible. It's basically just a fan surrounded by activated charcoals.
 
