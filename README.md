@@ -4,8 +4,8 @@ Filter for 3d printers inspired by [NeverMore](https://github.com/nevermore3d/Ne
 As the name suggests, the design goal is to be as simple as possible. It's basically just a fan surrounded by activated charcoals.
 
 
-![Place-at-bottom](./Image/place_at_bottom.JPG)
-
+| <img src="./Image/assemble5.JPG" height="300" /> | <img src="./Image/place1.JPG" height="300" /> | <img src="./Image/place2.JPG" height="300" /> |
+--- | --- | ---
 
 So why choose FilterZero?
 - Small.
@@ -31,6 +31,11 @@ A few comments:
 - The small hole at the center of the filter is help you center the fan.
 - The wire should go through the two holes at the bottom. You may need to desolder the wires from the fan for it to go through, then solder it back later.
 - For wiring, I connect mine to the 24V PSU directly. You can be creative at how to wire yours.
+
+
+| <img src="./Image/assemble_1.JPG" height="200" /> | <img src="./Image/assemble_2.JPG" height="200" /> | <img src="./Image/assemble_3.JPG" height="200" /> | <img src="./Image/assemble4.JPG" height="200" /> |
+--- | --- | --- | ---
+
 
 # Installation
 I just put it at the bottom of my Voron V0.1. I lose about 5mm Z from it, which I don't mind.
