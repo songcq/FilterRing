@@ -33,7 +33,7 @@ A few comments:
 - For wiring, I connect mine to the 24V PSU directly. You can be creative at how to wire yours.
 
 
-| <img src="./Image/assemble_1.JPG" height="200" /> | <img src="./Image/assemble_2.JPG" height="200" /> | <img src="./Image/assemble_3.JPG" height="200" /> | <img src="./Image/assemble4.JPG" height="200" /> |
+| <img src="./Image/assemble_1.JPG" height="150" /> | <img src="./Image/assemble_2.JPG" height="150" /> | <img src="./Image/assemble_3.JPG" height="150" /> | <img src="./Image/assemble4.JPG" height="150" /> |
 --- | --- | --- | ---
 
 
