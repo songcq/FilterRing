@@ -1,7 +1,11 @@
 # FilterZero
 Filter for 3d printers inspired by [NeverMore](https://github.com/nevermore3d/Nevermore_Micro). 
 
-As the name suggests, the design goal is to be as simple as possible.
+As the name suggests, the design goal is to be as simple as possible. It's basically just a fan surrounded by activated charcoals.
+
+
+![Place-at-bottom](./Image/place_at_bottom.JPG)
+
 
 So why choose FilterZero?
 - Small.
