@@ -1,4 +1,4 @@
-# FilterZero
+# FilterRing
 Filter for 3d printers inspired by [NeverMore](https://github.com/nevermore3d/Nevermore_Micro). I run it in my Voron but it can be used in any enclosed printers.
 
 As the name suggests, the design goal is to be as simple as possible. It's basically just a fan surrounded by activated charcoals.
@@ -9,7 +9,7 @@ As the name suggests, the design goal is to be as simple as possible. It's basic
 
 So why choose FilterZero?
 - Small.
-- Simplest possible airflow. 
+- Simplest possible airflow. Hopefully also the most effective.
 - Easy assembly: 3 heat inserts and screws, no magnets.
 - Easy installation: simply place it at the base of your printer, or virtically using a printed stand.
 
