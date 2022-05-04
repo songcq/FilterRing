@@ -4,7 +4,7 @@ Filter for 3d printers inspired by [NeverMore](https://github.com/nevermore3d/Ne
 As the name suggests, the design goal is to be as simple as possible. It's basically just a fan surrounded by activated charcoals.
 
 
-| <img src="./Image/assemble5.JPG" height="300" /> | <img src="./Image/place1.JPG" height="300" /> | <img src="./Image/place2.JPG" height="300" /> |
+| <img src="./Image/assemble5.JPG" height="300" width:auto/> | <img src="./Image/place1.JPG" height="300" /> | <img src="./Image/place2.JPG" height="300" /> |
 --- | --- | ---
 
 So why choose FilterZero?
